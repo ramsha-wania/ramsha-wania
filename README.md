@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **ramshawansari@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b1Why5R-13kPgdu_mdQQUehDpvL4CAxC/view?usp=drive_link](https://drive.google.com/file/d/1b1Why5R-13kPgdu_mdQQUehDpvL4CAxC/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1b1Why5R-13kPgdu_mdQQUehDpvL4CAxC/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ramsha wania ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramsha wania ansari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ramsha-wania-ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramsha wania ansari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramsha_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramsha_91" height="30" width="40" /></a>
 </p>
 
@@ -26,5 +26,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramsha-wania&" alt="ramsha-wania" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ramsha-wania" alt="GitHub Streak" />
+</p>
 
