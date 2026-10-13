@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramsha Wania Ansari</h1>
-<h3 align="center">A passionate Python Developer & Data Science Enthusiast</h3>
+<h3 align="center">A passionate Python Developer & Data Analytics Enthusiast</h3>
 
 - 🔭 I’m currently working on **New projects**
 
